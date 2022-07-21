@@ -7,3 +7,5 @@ Exercícios que testam sintaxes de javaScript
 # DE ORIGEM DO MEU PC
 
 #nova subida do meu pc
+
+# Exercícios de MAP, FILTER E REDUCE
